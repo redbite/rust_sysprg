@@ -1,0 +1,1 @@
+C:\Users\lssln\Developer\Rust\RustWorkSpace-SysP\r003-strings_possession_and_moving\target\debug\r003-strings_possession_and_moving.exe: C:\Users\lssln\Developer\Rust\RustWorkSpace-SysP\r003-strings_possession_and_moving\src\main.rs
