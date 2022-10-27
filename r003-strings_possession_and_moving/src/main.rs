@@ -7,7 +7,9 @@ fn main() {
     println!("s2: {}",s2);
 
     //this results in error as s1 is for now inaccessible: s1 has no value
+    /*
     println!("s1.to_uppercase(): {}", s1.to_uppercase());
+     */
 
     //if i assign a value to s1 again, now it's accessible and can be modified again
     //s2 will still have the value "hello"
