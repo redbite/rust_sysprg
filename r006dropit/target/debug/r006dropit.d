@@ -1,0 +1,1 @@
+C:\Users\lssln\Developer\Rust\RustWorkSpace-SysP\r006dropit\target\debug\r006dropit.exe: C:\Users\lssln\Developer\Rust\RustWorkSpace-SysP\r006dropit\src\lib.rs C:\Users\lssln\Developer\Rust\RustWorkSpace-SysP\r006dropit\src\main.rs
